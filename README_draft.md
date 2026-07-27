@@ -6,8 +6,7 @@ Excel Analysis and Dashboard Showing Effect of CoVID19 Pandemic on Economies (GD
 * [Header](#header)  
 * [Dataset](#dataset)  
 * [Technologies Used](#technologies-used)  
-* [Installation](#installation)
-* [Analysis and Visualizations](#analysis-and-visualizations)
+* [Analysis and Visualisations](#analysis-and-visualisations)
 * [Conclusion](#conclusion)
 
 ## Header
@@ -16,8 +15,12 @@ Excel Analysis and Dashboard Showing Effect of CoVID19 Pandemic on Economies (GD
 - **Objective:** I aimed to determine the economic impact on the world as a whole, as well as find patterns in which countries were most and least affected. I also became curious about whether this comparison could be biased by different reporting measures of Nominal GDP versus PPP GDP
 - **Learning Outcomes:** Skills in data cleaning with PowerQuery, lessons in version control and regular saving. And I learned not to assume Nominal and PPP GDP are always the same - they both have their uses but the outcomes will not always be equivalent.
 
-## Dataset !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## Dataset 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Source?????????????????? I WAS GIFTED THIS DATASET BY A FRIENDLY ELF IN THE WOODS. DATA SOURCE UNKNOWN. DATA ACCURACY UNKNOWN. 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Size: 5 columns, 195 rows
 Columns:
 - Country
@@ -46,7 +49,9 @@ Preprocessing steps
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"
 
 ## Analysis and Visualisations
-<img width="1978" height="1844" alt="dashboard as picture" src="https://github.com/user-attachments/assets/488cf23f-f861-4587-8100-800ad01d8f69" />
+<img width="1819" height="886" alt="image" src="https://github.com/user-attachments/assets/91ba36b2-c847-482a-be0b-3c5417ed8ffe" />
+<img width="1816" height="513" alt="image" src="https://github.com/user-attachments/assets/fc8c01c8-2560-4bc4-88fe-a3b94c111fbf" />
+
 The majority impact of the CoVID-19 pandemic was a fall in the economy globally and in the majority of countries, including both stronger and weaker economies, with only 10% of countries showing ideal economic growth (+0-3% GDP). Countries with already weaker economies had the potential to be most affected, with several experiencing ~20% fall in GDP. A few poorer countries experienced a slight to medium rise in GDP of up to 6%. Only Guyana was an extreme outlier with a 43% rise.
 
 This pattern likely means global recession, and is a problem for employees, businesses and their investors: less income, less spending. The decrease in Purchasing Power Parity (PPP) GDP occuring in the majority of countries indicates a global decline in standard of living due to reduced ability to pay for goods and services in each country. A fall in economy may be expected due to the effects of lockdowns, and further exploration into prior and later years' data to determine whether this is a temporary or lasting effect.
