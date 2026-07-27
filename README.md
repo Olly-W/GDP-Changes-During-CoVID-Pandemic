@@ -16,12 +16,8 @@ Excel Analysis and Dashboard Showing Effect of CoVID19 Pandemic on Economies (GD
 - **Learning Outcomes:** Skills in data cleaning with PowerQuery, lessons in version control and regular saving. And I learned not to assume Nominal and PPP GDP are always the same - they both have their uses but the outcomes will not always be equivalent.
 
 ## Dataset 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Source?????????????????? I WAS GIFTED THIS DATASET BY A FRIENDLY ELF IN THE WOODS. DATA SOURCE UNKNOWN. DATA ACCURACY UNKNOWN. 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Size: 5 columns, 195 rows
+Original source unknown - data obtained as part of a Data Analysis course with ITonlinelearning
+Dataset Size: 5 columns, 195 rows
 Columns:
 - Country
 - Nominal GDP per Capita
